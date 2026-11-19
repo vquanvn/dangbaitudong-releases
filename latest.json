@@ -1,5 +1,7 @@
 {
-  "version": "1.0.7",
-  "downloadUrl": "https://github.com/vquanvn/dangbaitudong-releases/releases/download/v1.0.7/DangBaiTuDong-Setup-1.0.7.exe",
-  "notes": "Cho phép tùy chỉnh prompt viết bài AI trong ứng dụng. Bổ sung thông báo khi có phiên bản mới. Cập nhật bằng cách tải và chạy bộ cài mới."
+  "version": "1.1.5",
+  "downloadUrl": "https://raw.githubusercontent.com/vquanvn/dangbaitudong-releases/f48527842d86bad2fcfbde950607764b525d2b16/downloads/ZeniPost-Update-1.1.5.exe",
+  "sha256": "3428481d0a544abcf5a8e680615cfc94aa2fcb13227fac3d115e75865c22ef31",
+  "size": 311296,
+  "notes": "Bấm Tải bản cập nhật, thoát ZeniPost rồi chạy tệp vừa tải để nâng cấp. Từ bản 1.1.5, ZeniPost tự tải bản mới trong nền và cài ở lần mở ứng dụng kế tiếp sau khi tải xong."
 }
